@@ -69,7 +69,7 @@ TODO 1.3: File: src/components/UserList.jsx
        <UserCard user={user} onUserClick={onUserClick} />
 
 =============================================================
-TODO 2 — FETCH USERS + FILTER USERS BY NAME
+TODO 2 — FETCH USERS +FILTER USERS BY NAME
 =============================================================
 TODO 2.1: File: src/App.jsx
 Implement the fetch logic inside the first useEffect.
